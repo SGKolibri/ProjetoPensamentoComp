@@ -1,1 +1,1 @@
-# ProjetoPensamentoComp
+# Projeto Pensamento Computacional
